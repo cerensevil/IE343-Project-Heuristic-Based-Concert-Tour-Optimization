@@ -89,7 +89,7 @@ Where:
 ├── data/
 │ ├── cities.csv
 │ ├── songs_data.csv
-│ └── ceren_beyda_cities.csv
+│ └── cities.csv
 │
 ├── pythonfiles/
 │ ├── City.py
@@ -215,7 +215,7 @@ Sonuçlara ait görseller proje raporunda yer almaktadır.
 ├── data/
 │ ├── cities.csv
 │ ├── songs_data.csv
-│ └── ceren_beyda_cities.csv
+│ └── cities.csv
 │
 ├── pythonfiles/
 │ ├── City.py
