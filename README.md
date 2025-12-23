@@ -133,7 +133,6 @@ A formal project report has been prepared, covering the following topics:
 
 - Coding from scratch was not permitted; the provided project template was used.
 - Heuristic algorithms generate fast and approximate solutions rather than exact optimal solutions.
-- The project was completed in accordance with academic integrity rules.
   
 
 ---
